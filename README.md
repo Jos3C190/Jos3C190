@@ -1,13 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is José Carlos and I'm a Software Engineering Student</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jos3C190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jos3C190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="left">Hi 👋! My name is José Carlos and I'm a Software Engineering Student</h1>
 
 ###
 
@@ -15,9 +8,15 @@
 
 ###
 
+<img align="right" height="170" src="https://i.pinimg.com/originals/9a/2e/3d/9a2e3dd3f3dc79b9da3bd0ee11d347b3.gif"  />
+
+
+###
+
 <p align="left">Hello everyone! I am a passionate Software Development Engineering student. I love technology and I'm always looking for ways to improve my skills and knowledge.<br><br>✔ I'm from El Salvador 🇸🇻<br>📚 I am currently learning English and coding.<br>🎯 Goals: To work as a programmer and speak English. <br>🎲I like 🎮 videogames and French fries 🍟</p>
 
 ###
+
 
 <h3 align="left">I code with</h3>
 
@@ -43,10 +42,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/9a/2e/3d/9a2e3dd3f3dc79b9da3bd0ee11d347b3.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jos3C190/Jos3C190/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jos3C190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jos3C190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
