@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-l%C3%B3pez-6383a7192/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
